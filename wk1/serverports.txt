@@ -1,0 +1,97 @@
+Last login: Fri Feb  9 15:31:23 on ttys000
+(base) samuelkambaji@Samuels-MacBook-Pro-2 ~ % cd /Users/samuelkambaji/Desktop/comp3134Winter2024
+(base) samuelkambaji@Samuels-MacBook-Pro-2 comp3134Winter2024 % mkdir wk1
+
+(base) samuelkambaji@Samuels-MacBook-Pro-2 comp3134Winter2024 % cd wk1
+
+(base) samuelkambaji@Samuels-MacBook-Pro-2 wk1 % nano serverports.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                                                            File: serverports.txt                                                            Modified  
+
+What is the definition of server port?
+- A server port is a software construct that allows a computer to host multiple network services simultaneously, distinguishing one service from another.
+
+What is server port range?
+- The server port range typically refers to the range of port numbers available for use by network services on a computer system. In TCP/IP, port numbers range from$
+
+How many bits does number above represent?
+- The number 65535 represents a 16-bit value, as it spans from 0 to (2^16 - 1).
+
+State 10 common server ports:
+- 1. HTTP (Hypertext Transfer Protocol) - Port 80
+- 2. HTTPS (HTTP Secure) - Port 443
+- 3. FTP (File Transfer Protocol) - Port 21
+- 4. SSH (Secure Shell) - Port 22
+- 5. SMTP (Simple Mail Transfer Protocol) - Port 25
+- 6. DNS (Domain Name System) - Port 53
+- 7. DHCP (Dynamic Host Configuration Protocol) - Port 67 (Server) / Port 68 (Client)
+- 8. Telnet - Port 23
+- 9. SNMP (Simple Network Management Protocol) - Port 161 (SNMP) / Port 162 (SNMP Trap)
+- 10. RDP (Remote Desktop Protocol) - Port 3389
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help                ^O WriteOut                ^R Read File               ^Y Prev Pg                 ^K Cut Text                ^C Cur Pos                 
+^X Exit                    ^J Justify                 ^W Where is                ^V Next Pg                 ^U UnCut Text              ^T To Spell                
