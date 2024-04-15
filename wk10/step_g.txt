@@ -1,0 +1,10 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2759
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Quisque ac ante nisl. Integer pretium, quam vel accumsan placerat, sem ipsum suscipit nibh, quis fringilla ante nunc ac libero. Quisque ut rutrum elit, vel venenatis lacus. Aliquam ultrices suscipit suscipit. Ut cursus enim ut leo viverra ornare. Cras massa felis, varius a ullamcorper sit amet, commodo vel nunc. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam a neque tellus. Praesent fringilla lacus commodo scelerisque eleifend. Nam sit amet cursus odio. In mollis neque ut mollis pretium. Fusce at arcu nisl. Suspendisse porttitor mi in ipsum cursus sagittis. Ut id eros sed elit interdum venenatis sollicitudin ut dolor. Donec eget euismod lectus.}
