@@ -1,0 +1,109 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2759
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgray\c0;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf2 \CocoaLigature0 tcpdump: verbose output suppressed, use -v[v]... for full protocol decode\
+listening on en0, link-type EN10MB (Ethernet), snapshot length 524288 bytes\
+19:56:47.772574 IP 192.168.0.23.55376 > ec2-3-96-121-93.ca-central-1.compute.amazonaws.com.https: Flags [P.], seq 2991303926:2991304580, ack 679511152, win 2048, options [nop,nop,TS val 2897650955 ecr 19747788], length 654\
+	0x0000:  e82c 6d68 dd3d e0b5 5fee 1702 0800 4500  .,mh.=.._.....E.\
+	0x0010:  02c2 0000 4000 4006 fab9 c0a8 0017 0360  ....@.@........`\
+	0x0020:  795d d850 01bb b24b acf6 2880 8470 8018  y].P...K..(..p..\
+	0x0030:  0800 0420 0000 0101 080a acb6 a50b 012d  ...............-\
+	0x0040:  53cc 1703 0302 89ae 9c3f 703f a4be b0ae  S........?p?....\
+	0x0050:  f4e4 b2cf f9a8 6320 182a a327 43ba cb28  ......c..*.'C..(\
+	0x0060:  79de cdd0 ae31 80dd a264 1396 5151 57d2  y....1...d..QQW.\
+	0x0070:  1c09 83d6 b27d c411 62cf 52ca e958 47ec  .....\}..b.R..XG.\
+	0x0080:  1a54 50b3 83df fb8a 0702 bec6 b4ab 73b6  .TP...........s.\
+	0x0090:  04a1 3a6c b663 d8e4 29ba b573 281d eed8  ..:l.c..)..s(...\
+	0x00a0:  c248 1d29 01bf 2a76 ce02 4d34 ae25 1796  .H.)..*v..M4.%..\
+	0x00b0:  e957 a6ba a9ee 098d 2666 b654 5866 0b6a  .W......&f.TXf.j\
+	0x00c0:  3f21 c69c 0e6a 7740 0aa6 faec a2ae 4556  ?!...jw@......EV\
+	0x00d0:  1d56 efeb ba6b a2af dd05 22c0 8069 f0ae  .V...k...."..i..\
+	0x00e0:  bb8f 089b 307f 2b2e 8a9a 6849 4889 f191  ....0.+...hIH...\
+	0x00f0:  3e16 fc2a e936 1269 2c3e 5adf 046e b720  >..*.6.i,>Z..n..\
+	0x0100:  9547 26ab 8355 c175 5690 f90f 6ba1 e53d  .G&..U.uV...k..=\
+	0x0110:  64e7 5ce1 c418 cef4 6ff5 18a5 7f7a 1903  d.\\.....o....z..\
+	0x0120:  bec5 da64 4664 6170 68d0 a0a8 e3f6 e400  ...dFdaph.......\
+	0x0130:  e2ef 0e3d a18c e58a 376f 55f6 8992 9017  ...=....7oU.....\
+	0x0140:  f150 d293 69d6 bc6f 4949 63ef 558c 2358  .P..i..oIIc.U.#X\
+	0x0150:  3ee7 dc46 048b b292 5c57 c480 cf92 e24f  >..F....\\W.....O\
+	0x0160:  2198 0c79 97a9 e935 ddfd 3523 47c7 5110  !..y...5..5#G.Q.\
+	0x0170:  2643 acfe 80c1 ca24 1555 0cce bf1e 8079  &C.....$.U.....y\
+	0x0180:  b07a 7828 59a3 5ee6 cde3 5cd9 8351 c53f  .zx(Y.^...\\..Q.?\
+	0x0190:  911d 77bf 94bc a049 1dcc 5869 d755 c75f  ..w....I..Xi.U._\
+	0x01a0:  7712 a7ac b9b8 4810 61f6 0ad0 c98c 4716  w.....H.a.....G.\
+	0x01b0:  2490 01ce 1095 2b54 110c 5e6f 71f7 607d  $.....+T..^oq.`\}\
+	0x01c0:  4031 5992 586f f7a0 bc25 3c1a c10c 8a80  @1Y.Xo...%<.....\
+	0x01d0:  6415 3115 7bc2 6382 80ac fadf 8b2c 6df3  d.1.\{.c......,m.\
+	0x01e0:  8758 55f7 4058 ffd5 7af4 a894 4380 88e8  .XU.@X..z...C...\
+	0x01f0:  0b1c 9e8e c863 4280 560e 7678 4f1b ac54  .....cB.V.vxO..T\
+	0x0200:  7865 5a91 77dd 966b a0e5 2be2 b058 23b9  xeZ.w..k..+..X#.\
+	0x0210:  4156 9dfd 45f2 64bc 65ee 5458 69b2 4fed  AV..E.d.e.TXi.O.\
+	0x0220:  2a34 8cde f617 b67b 5185 8f17 d9e5 02c9  *4.....\{Q.......\
+	0x0230:  589f c03b 0bc4 67d4 9b58 4f55 1532 dc92  X..;..g..XOU.2..\
+	0x0240:  17b7 5b86 b3e7 aa06 7d70 8bb0 1f3e ae60  ..[.....\}p...>.`\
+	0x0250:  81dd bb7f 6d07 5f19 c7c7 c005 9192 e7bc  ....m._.........\
+	0x0260:  81e2 f714 2920 2971 42b5 9785 bd70 9d8d  ....).)qB....p..\
+	0x0270:  d87a 401a 134b c3aa a942 e484 99b1 b061  .z@..K...B.....a\
+	0x0280:  4ff7 0bdd 0fa3 219f dd5f 9141 c9c2 817f  O.....!.._.A....\
+	0x0290:  aed7 1ea9 2160 9f55 2e50 8b9b b973 22eb  ....!`.U.P...s".\
+	0x02a0:  4022 f304 f294 91b0 0f3e c933 722d 2410  @".......>.3r-$.\
+	0x02b0:  827f ca7e 9bd6 0073 97f7 2efd caef 3e17  ...~...s......>.\
+	0x02c0:  2459 7db3 8710 f990 e263 19bd 3c39 4109  $Y\}......c..<9A.\
+19:56:47.798646 IP ec2-3-96-121-93.ca-central-1.compute.amazonaws.com.https > 192.168.0.23.55376: Flags [P.], seq 1:539, ack 654, win 442, options [nop,nop,TS val 19757558 ecr 2897650955], length 538\
+	0x0000:  e0b5 5fee 1702 e82c 6d68 dd3d 0800 4500  .._....,mh.=..E.\
+	0x0010:  024e 3f74 4000 e906 12b9 0360 795d c0a8  .N?t@......`y]..\
+	0x0020:  0017 01bb d850 2880 8470 b24b af84 8018  .....P(..p.K....\
+	0x0030:  01ba 79e5 0000 0101 080a 012d 79f6 acb6  ..y........-y...\
+	0x0040:  a50b 1703 0302 15f4 aea7 c54b 58f0 6936  ...........KX.i6\
+	0x0050:  6c9d c1c7 5f32 a2cc 548c d422 e2df 70ff  l..._2..T.."..p.\
+	0x0060:  f73c 6931 6867 0d35 692c 55b9 aef8 c3f8  .<i1hg.5i,U.....\
+	0x0070:  12e7 b8c1 aa64 829a f4a0 5a1a 1e05 8c5a  .....d....Z....Z\
+	0x0080:  e78f 7460 2777 5b0c c2e8 76c3 3467 5dd9  ..t`'w[...v.4g].\
+	0x0090:  1d97 89fa 95b1 7372 57b2 a581 7525 fe5f  ......srW...u%._\
+	0x00a0:  8ae6 d5ee a126 b6f5 dd44 da5f 5bcc 2767  .....&...D._[.'g\
+	0x00b0:  5a97 f5f7 1582 aea5 1fc3 3d6d 786e 29d1  Z.........=mxn).\
+	0x00c0:  5ee0 3725 0582 4d5e acad 331e a543 2175  ^.7%..M^..3..C!u\
+	0x00d0:  8ebb b3f3 2b96 8fc8 bf2c f2bf a42b ff97  ....+....,...+..\
+	0x00e0:  3a31 81a2 30d7 cd32 48d4 30fc ec8a b867  :1..0..2H.0....g\
+	0x00f0:  a42a c1e3 68bf 316a 1569 8949 faae a748  .*..h.1j.i.I...H\
+	0x0100:  d3bb 6ec2 970e 3a97 1c7c 8305 80d7 7067  ..n...:..|....pg\
+	0x0110:  f550 a313 d81f 35b9 6e10 a297 1203 2ea9  .P....5.n.......\
+	0x0120:  18a4 20b4 2ddf 47b9 ee69 f2fb aa60 ea48  ....-.G..i...`.H\
+	0x0130:  6ab6 db13 08d4 7f57 deb0 bf5e 40fd 5361  j......W...^@.Sa\
+	0x0140:  8c45 1356 0242 156c 0304 6261 bfc5 0fd5  .E.V.B.l..ba....\
+	0x0150:  20e4 738a c969 79be 8158 465e 719f 88d1  ..s..iy..XF^q...\
+	0x0160:  bcb9 d3d9 3564 d7af 2dd4 f0e1 7cb7 ce54  ....5d..-...|..T\
+	0x0170:  ef5d 595a 38b1 1a6b 69b2 50d0 067a 68fd  .]YZ8..ki.P..zh.\
+	0x0180:  c0ed baa6 183d 8ae4 4017 7264 6f48 096d  .....=..@.rdoH.m\
+	0x0190:  eabb 0ff9 c110 cc39 d727 7168 8a5b cce8  .......9.'qh.[..\
+	0x01a0:  34b5 f856 0241 3fe9 f41a 5fe1 62c2 7734  4..V.A?..._.b.w4\
+	0x01b0:  498c aba8 db99 2531 2351 110b 1c16 347b  I.....%1#Q....4\{\
+	0x01c0:  0bbd 5795 6331 b812 c8e8 6797 d4de fa86  ..W.c1....g.....\
+	0x01d0:  9871 8251 5e08 c7e6 2a0f 5d65 56ff eef5  .q.Q^...*.]eV...\
+	0x01e0:  8b0f b7ec 2f9c 49bb b027 1495 ccfe 76f9  ..../.I..'....v.\
+	0x01f0:  f745 c216 4f1d 6dd7 6c74 f033 ce9a 2195  .E..O.m.lt.3..!.\
+	0x0200:  f833 5be1 7259 7ac6 018a 0e93 9303 b5ef  .3[.rYz.........\
+	0x0210:  91f1 ff6d 8075 204f 1896 a034 9603 93a4  ...m.u.O...4....\
+	0x0220:  b0d2 6061 3139 bab0 8621 8e5c 994e 7b20  ..`a19...!.\\.N\{.\
+	0x0230:  f852 2869 c88e a837 6f08 936f f5cd 8c02  .R(i...7o..o....\
+	0x0240:  90f9 9c4d a0c9 baf8 7dad 1339 1890 ebc9  ...M....\}..9....\
+	0x0250:  d6fb 4278 7180 484a a462 f45c            ..Bxq.HJ.b.\\\
+19:56:47.798777 IP 192.168.0.23.55376 > ec2-3-96-121-93.ca-central-1.compute.amazonaws.com.https: Flags [.], ack 539, win 2039, options [nop,nop,TS val 2897650982 ecr 19757558], length 0\
+	0x0000:  e82c 6d68 dd3d e0b5 5fee 1702 0800 4500  .,mh.=.._.....E.\
+	0x0010:  0034 0000 4000 4006 fd47 c0a8 0017 0360  .4..@.@..G.....`\
+	0x0020:  795d d850 01bb b24b af84 2880 868a 8010  y].P...K..(.....\
+	0x0030:  07f7 7962 0000 0101 080a acb6 a526 012d  ..yb.........&.-\
+	0x0040:  79f6                                     y.\
+19:56:47.856208 IP 192.168.0.23.57153 > dns-recursive.primus.ca.domain: 21131+ PTR? 23.0.168.192.in-addr.arpa. (43)\
+	0x0000:  e82c 6d68 dd3d e0b5 5fee 1702 0800 4500  .,mh.=.._.....E.\
+	0x0010:  0047 f402 0000 4011 6402 c0a8 0017 d8fe  .G....@.d.......\
+	0x0020:  88e3 df41 0035 0033 2c27 528b 0100 0001  ...A.5.3,'R.....\
+	0x0030:  0000 0000 0000 0232 3301 3003 3136 3803  .......23.0.168.\
+	0x0040:  3139 3207 696e 2d61 6464 7204 6172 7061  192.in-addr.arpa\
+	0x0050:  0000 0c00 01                             .....\
+19:56:47.868516 IP dns-recursive.primus.ca.domain > 192.168.0.23.57153: 21131 NXDomain 0/1/0 (92)\
+}
